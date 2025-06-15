@@ -32,3 +32,5 @@ export default function RootLayout({
     </html>
   );
 }
+
+// Removed --turbopack from the dev scripts because of the font error
