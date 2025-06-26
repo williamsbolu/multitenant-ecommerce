@@ -23,4 +23,5 @@ export default function RootLayout({
   );
 }
 
+// ! Added "type": "module" to the package.json file to fix the generate schema error.
 // Removed --turbopack from the dev scripts because of the font error
